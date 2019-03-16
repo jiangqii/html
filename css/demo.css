@@ -1,6 +1,9 @@
 body.bg{
     background: #3498db;
 }
+body.bg2{
+	background: #852316
+}
 
 .container{
     overflow: hidden;
@@ -39,7 +42,20 @@ body.bg{
 
 .img-container{
     margin: 10px auto 0;
-    max-width: 1090px;
+    max-width: 1000px;
+    width: 100%;
+    padding: 0;
+	margin-bottom: 60px;
+}
+.ad-container{
+	margin: 10px auto 0;
+	max-width: 1000px;
+	width: 100%;
+	padding: 0;
+}
+.hero-container{
+    margin: 10px auto 0;
+    max-width: 750px;
     width: 100%;
     padding: 0;
 }
